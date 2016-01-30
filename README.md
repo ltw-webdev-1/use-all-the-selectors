@@ -18,7 +18,9 @@
 ## CSS selectors
 
 - Select `body`
+
   — add `background-color: #fdf6e3;`
+
 - Select `header` and `footer`
   — add `font-size: 24px;`
 - Select `ul` inside `nav`
