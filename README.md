@@ -17,35 +17,35 @@
 
 ## CSS selectors
 
-- Select `body`<br>
+1. Select `body`<br>
   — add `background-color: #fdf6e3;`
-- Select `header` and `footer`<br>
-  — add `font-size: 24px;`
-- Select `ul` inside `nav`<br>
+2. Select `header` and `footer`<br>
+  — add `font-size: 1.5rem;`
+3. Select `ul` inside `nav`<br>
   — add `font-family: sans-serif;`
-- Select the logo by ID<br>
-  — add `border: 2px solid #d04b16;`
-- Select the class `wrapper`<br>
+4. Select the logo by class<br>
+  — add `text-transform: uppercase;`
+5. Select the class `wrapper`<br>
   — add `background-color: #eee8d5;`
-- Select the IDs `contents`, `favs`, `facts` and `types`<br>
+6. Select the IDs `contents`, `favs`, `facts` and `types`<br>
   — add `color: #93a1a1;`
-- Use a child selector to get `.dfn` inside the `wrapper`<br>
+7. Use a child selector to get `.dfn` inside the `wrapper`<br>
   — add `background-color: #b58900;`
-- Use an adjacent selector to get the second `strong` inside `.dfn`<br>
+8. Use an adjacent selector to get the second `strong` inside `.dfn`<br>
   — add `color: #fff;`
-- Write the fully qualified selector for `mark`, starting with `html`<br>
+9. Write the fully qualified selector for `mark`, starting with `html`<br>
   — add `background-color: #719e07;`
-- Select the link with `rel="external"` attribute<br>
+10. Select the link with `rel="external"` attribute<br>
   — add `background-color: #2694d8;`
-- Select the first `li` inside the `ol`<br>
+11. Select the first `li` inside the `ol`<br>
   — add `color: #719e47;`
-- Select the last `li` inside the `ol`<br>
+12. Select the last `li` inside the `ol`<br>
   — add `color: #2aa198;`
-- Select every odd `li` inside `.types`<br>
+13. Select every odd `li` inside `.types`<br>
   — add `background-color: #657ba3;`
-- Select every even `li` inside `.types`<br>
+14. Select every even `li` inside `.types`<br>
   — add `background-color: #586e75;`
-- Select every 3rd `li` inside `.types`<br>
+15. Select every 3rd `li` inside `.types`<br>
   — add `background-color: #d04b16;`
 
 ---
