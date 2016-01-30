@@ -1,0 +1,32 @@
+repo: "use-all-the-selectors"
+canvasCourse: "467502"
+canvasAssignment: "4178292"
+
+naming: true
+commits: 2
+
+html:
+  - path: "index.html"
+    valid: true
+    bestPractices: true
+
+css:
+  - path: "css/main.css"
+    valid: true
+    bestPractices: true
+    search:
+      - "background-color: #fdf6e3;"
+      - "font-size: 1.5rem;"
+      - "font-family: sans-serif;"
+      - "text-transform: uppercase;"
+      - "background-color: #eee8d5;"
+      - "color: #93a1a1;"
+      - "background-color: #b58900;"
+      - "color: #fff;"
+      - "background-color: #719e07;"
+      - "background-color: #2694d8;"
+      - "color: #719e47;"
+      - "color: #2aa198;"
+      - "background-color: #657ba3;"
+      - "background-color: #586e75;"
+      - "background-color: #d04b16;"
