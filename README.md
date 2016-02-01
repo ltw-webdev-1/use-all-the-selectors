@@ -13,6 +13,8 @@
 - Double check that it matches the included screenshot.
 - *Run it through Markbot and make sure it passes all the checks.*
 
+**Do NOT change the HTML!**
+
 ---
 
 ## CSS selectors
