@@ -13,7 +13,7 @@
 - Double check that it matches the included screenshot.
 - *Run it through Markbot and make sure it passes all the checks.*
 
-**Do NOT change the HTML!**
+**Do NOT change the HTML—except to add the CSS `<link>` line!**
 
 ---
 
@@ -31,7 +31,7 @@
   — add `background-color: #eee8d5;`
 6. Select the IDs `contents`, `favs`, `facts` and `types`<br>
   — add `color: #93a1a1;`
-7. Use a child selector to get `.dfn` inside the `wrapper`<br>
+7. Use a child (or direct descendant) selector to get `.dfn` inside the `wrapper`<br>
   — add `background-color: #b58900;`
 8. Use an adjacent selector to get the second `strong` inside `.dfn`<br>
   — add `color: #fff;`
