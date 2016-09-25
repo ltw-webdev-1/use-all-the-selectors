@@ -1,14 +1,18 @@
 repo: "use-all-the-selectors"
-canvasCourse: "467502"
-canvasAssignment: "4178292"
+canvasCourse: "web-dev-1"
 
 naming: true
-commits: 2
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 2
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
-    valid: true
-    bestPractices: true
+    locked: true
 
 css:
   - path: "css/main.css"
@@ -30,3 +34,7 @@ css:
       - "background-color: #657ba3;"
       - "background-color: #586e75;"
       - "background-color: #d04b16;"
+
+screenshots:
+  - path: 'index.html'
+    sizes: [608]
