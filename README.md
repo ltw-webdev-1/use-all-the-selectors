@@ -56,7 +56,7 @@ deliverables: "1 HTML file, 1 CSS file"
 
 Visually match the images in the “screenshots” folder.
 
-- [Final screenshots in the “screenshots” folder.](screenshots)
+- Final screenshots in the “screenshots” folder.
 
 ---
 
