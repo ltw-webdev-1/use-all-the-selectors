@@ -1,8 +1,13 @@
 # Test files
 node_modules
+npm-debug.log
 
 # Jekyll
 _site
+.jekyll-metadata
+
+# Temporary files
+tmp
 
 # Adobe files
 *.pdf

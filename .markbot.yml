@@ -1,14 +1,11 @@
 repo: "use-all-the-selectors"
 canvasCourse: "web-dev-1"
 
-naming: true
-restrictFileTypes: true
-liveWebsite: true
-
-git:
-  numCommits: 2
-  allCommitted: true
-  allSynced: true
+inherit:
+  - naming-restrict-live
+  - git-2
+  - html
+  - css
 
 html:
   - path: "index.html"
@@ -16,8 +13,6 @@ html:
 
 css:
   - path: "css/main.css"
-    valid: true
-    bestPractices: true
     search:
       - "background-color: #fdf6e3;"
       - "font-size: 1.5rem;"

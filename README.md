@@ -35,7 +35,7 @@ deliverables: "1 HTML file, 1 CSS file"
   — add `background-color: #b58900;`
 8. Use an adjacent selector to get the second `strong` inside `.dfn`
   — add `color: #fff;`
-9. Write the fully qualified selector for `mark`, starting with `html`
+9. Select all the `a` tags, but not the `a` tags with the class of `.no-highlight`
   — add `background-color: #719e07;`
 10. Select the link with `rel="external"` attribute
   — add `background-color: #2694d8;`
