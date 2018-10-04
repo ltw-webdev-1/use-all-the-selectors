@@ -31,9 +31,9 @@ deliverables: "1 HTML file, 1 CSS file"
   — add `background-color: #eee8d5;`
 6. Select the IDs `contents`, `favs`, `facts` and `types`
   — add `color: #93a1a1;`
-7. Use a child (or direct descendant) selector to get `.dfn` inside the `wrapper`
+7. Use a child (or direct descendant) selector to get the `.dfn` that’s immediately inside the `.wrapper` (not inside anything else)
   — add `background-color: #b58900;`
-8. Use an adjacent selector to get the second `strong` inside `.dfn`
+8. Use an adjacent selector to get the `strong` inside `.dfn`, the strong that starts “Botanically…”
   — add `color: #fff;`
 9. Select all the `a` tags, but not the `a` tags with the class of `.no-highlight`
   — add `background-color: #719e07;`
